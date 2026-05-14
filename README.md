@@ -1,8 +1,6 @@
 # Product Failure Analysis – Machine Failure Analysis
 
-## Student Details
-- Name: Nishchal
-- Roll No: 2K25CSUN06030
+
 
 ## Project Overview
 This project analyzes machine failure conditions using different operational parameters such as temperature, pressure, vibration, humidity, and runtime hours.
