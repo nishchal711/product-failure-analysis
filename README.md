@@ -18,4 +18,7 @@ To identify machine conditions that may lead to product or system failure and im
 ## Tools Used
 - Microsoft Excel
 - GitHub
+- 
+- ## excel sheet link
+- https://github.com/nishchal711/product-failure-analysis/blob/main/descriptive_name.xlsx
 
